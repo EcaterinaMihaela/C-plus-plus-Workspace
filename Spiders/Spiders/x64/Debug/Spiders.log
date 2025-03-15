@@ -1,0 +1,3 @@
+﻿  Spiders.cpp
+D:\SDA_probleme\Spiders\Spiders\Spiders.cpp(9,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Spiders.vcxproj -> D:\SDA_probleme\Spiders\x64\Debug\Spiders.exe

@@ -1,0 +1,11 @@
+﻿  Target Practice.cpp
+D:\SDA_probleme\Target Practice\Target Practice\Target Practice.cpp(19,16): warning C4566: character represented by universal-character-name '\u0219' cannot be represented in the current code page (1252)
+D:\SDA_probleme\Target Practice\Target Practice\Target Practice.cpp(31,25): warning C4473: 'fscanf_s' : not enough arguments passed for format string
+      D:\SDA_probleme\Target Practice\Target Practice\Target Practice.cpp(31,25):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      D:\SDA_probleme\Target Practice\Target Practice\Target Practice.cpp(31,25):
+      the missing variadic argument 2 is required by format string '%s'
+      D:\SDA_probleme\Target Practice\Target Practice\Target Practice.cpp(31,25):
+      this argument is used as a buffer size
+  
+  Target Practice.vcxproj -> D:\SDA_probleme\Target Practice\x64\Debug\Target Practice.exe
