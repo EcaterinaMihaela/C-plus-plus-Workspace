@@ -1,0 +1,6 @@
+﻿  Rail_Traffic_Simulator.cpp
+  run.cpp
+  train.cpp
+  Generating Code...
+D:\POO\Rail_Traffic_Simulator\Rail_Traffic_Simulator\run.cpp(672,1): warning C4715: 'Run::RunTheApp': not all control paths return a value
+  Rail_Traffic_Simulator.vcxproj -> D:\POO\Rail_Traffic_Simulator\x64\Debug\Rail_Traffic_Simulator.exe

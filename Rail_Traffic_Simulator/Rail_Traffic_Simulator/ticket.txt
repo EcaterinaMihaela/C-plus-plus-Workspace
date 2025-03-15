@@ -1,0 +1,122 @@
+
+======================================Ticket purchased!================================================
+Category: Student
+Ticket ID: 102051
+Base Price: 880
+Discount: 90%
+Final Price: 88
+Route: Roman-Moinesti
+Travel Date: 2025-01-30
+Train: 75
+Purchase Date: 2025-01-06
+Ticket Status: Purchased
+Carriage: 12
+Seat: 18
+=========================================================================================================
+
+======================================Ticket purchased!================================================
+Category: Advance
+Ticket ID: 132104
+Base Price: 977.6
+Discount: 25%
+Final Price: 733.2
+Route: Strehaia HC-Bucuresti Nord
+Travel Date: 2025-01-08
+Train: 1590
+Purchase Date: 2025-01-06
+Ticket Status: Purchased
+Carriage: 8
+Seat: 36
+=========================================================================================================
+
+======================================Ticket purchased!================================================
+Category: Student
+Ticket ID: 121322
+Base Price: 971.2
+Discount: 90%
+Final Price: 97.12
+Route: Bucuresti Nord-Craiova
+Travel Date: 
+Train: 72
+Purchase Date: 2025-01-06
+Ticket Status: Purchased
+Carriage: 6
+Seat: 4
+=========================================================================================================
+
+======================================Ticket purchased!================================================
+Category: Child
+Ticket ID: 128374
+Base Price: 979.2
+Discount: 0%
+Final Price: 979.2
+Route: Brasov-Sighisoara
+Travel Date: 2025-01-07
+Train: 73
+Purchase Date: 2025-01-06
+Ticket Status: Purchased
+Carriage: 5
+Seat: 9
+=========================================================================================================
+
+======================================Ticket purchased!================================================
+Category: Student
+Ticket ID: 119002
+Base Price: 971.2
+Discount: 90%
+Final Price: 97.12
+Route: Bucuresti Nord-Curtici
+Travel Date: 2025-01-08
+Train: 72
+Purchase Date: 2025-01-06
+Ticket Status: Purchased
+Carriage: 6
+Seat: 29
+=========================================================================================================
+
+======================================Ticket purchased!================================================
+Category: Student
+Ticket ID: 103096
+Base Price: 971.2
+Discount: 90%
+Final Price: 97.12
+Route: Bucuresti Nord-Videle
+Travel Date: 2025-01-07
+Train: 72
+Purchase Date: 2025-01-06
+Ticket Status: Purchased
+Carriage: 6
+Seat: 23
+=========================================================================================================
+
+======================================Ticket purchased!================================================
+Category: 
+Ticket ID: 119714
+Base Price: 971.2
+Discount: 0%
+Final Price: 971.2
+Route: Bucuresti Nord-Videle
+Travel Date: 2025-01-06
+Train: 1695
+Purchase Date: 2025-01-06
+Ticket Status: Purchased
+Carriage: 5
+Seat: 6
+Carriage Class: 1
+=========================================================================================================
+
+======================================Ticket purchased!================================================
+Category: Student
+Ticket ID: 102611
+Base Price: 624
+Discount: 90%
+Final Price: 62.4
+Route: Buzau-Focsani
+Travel Date: 2025-01-12
+Train: 2
+Purchase Date: 2025-01-09
+Ticket Status: Purchased
+Carriage: 10
+Seat: 27
+Carriage Class: 2
+=========================================================================================================
